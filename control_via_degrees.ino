@@ -1,7 +1,7 @@
 #include <Servo.h>
 #include <stdlib.h>
 
-Servo lr, ud, fb;  // create servo object to control a servo
+Servo lr, ud, fb;
 
 int lrpin = 10;
 int udpin = 11;
